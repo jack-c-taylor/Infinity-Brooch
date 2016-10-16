@@ -1,0 +1,176 @@
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Jack\Dropbox\GameTale\leapMotionTest\Infinity_Brooch_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Jack\Dropbox\GameTale\leapMotionTest\Infinity_Brooch_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Jack\Dropbox\GameTale\leapMotionTest\Infinity_Brooch_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Jack\Dropbox\GameTale\leapMotionTest\Infinity_Brooch_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Jack\Dropbox\GameTale\leapMotionTest\Infinity_Brooch_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Jack\Dropbox\GameTale\leapMotionTest\Infinity_Brooch_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Jack\Dropbox\GameTale\leapMotionTest\Infinity_Brooch_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Jack\Dropbox\GameTale\leapMotionTest\Infinity_Brooch_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Jack\Dropbox\GameTale\leapMotionTest\Infinity_Brooch_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading C:\Users\Jack\Dropbox\GameTale\leapMotionTest\Infinity_Brooch_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+- Completed reload, in  0.054 seconds
+Platform assembly: C:\Users\Jack\Dropbox\GameTale\leapMotionTest\Infinity_Brooch_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Jack\Dropbox\GameTale\leapMotionTest\Infinity_Brooch_Data\Managed\System.dll (this message is harmless)
+desktop: 3200x1800 60Hz; virtual: 3200x1800 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 17.261652 ms
+Average dt was excessive!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Average dt was excessive!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Average dt was excessive!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Average dt was excessive!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.697280 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 518.
+Total: 0.669866 ms (FindLiveObjects: 0.069546 ms CreateObjectMapping: 0.015360 ms MarkObjects: 0.564480 ms  DeleteObjects: 0.019626 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.833706 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 518.
+Total: 0.451840 ms (FindLiveObjects: 0.029866 ms CreateObjectMapping: 0.015786 ms MarkObjects: 0.401066 ms  DeleteObjects: 0.004693 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 245c -> priority: 1 
+Average dt was excessive!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Average dt was excessive!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Amethyst (Instance) (UnityEngine.Material)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Amethyst (Instance) (UnityEngine.Material)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Sapphire (Instance) (UnityEngine.Material)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cosmic (Instance) (UnityEngine.Material)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Emerald (Instance) (UnityEngine.Material)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Emerald (Instance) (UnityEngine.Material)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Ruby (Instance) (UnityEngine.Material)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Opal (Instance) (UnityEngine.Material)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Emerald (Instance) (UnityEngine.Material)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.379413 ms
+
+Unloading 61 unused Assets to reduce memory usage. Loaded Objects now: 514.
+Total: 0.793600 ms (FindLiveObjects: 0.076800 ms CreateObjectMapping: 0.028586 ms MarkObjects: 0.581120 ms  DeleteObjects: 0.106666 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.284266 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 514.
+Total: 0.551680 ms (FindLiveObjects: 0.060160 ms CreateObjectMapping: 0.024320 ms MarkObjects: 0.459093 ms  DeleteObjects: 0.006826 ms)
+
+Average dt was excessive!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Average dt was excessive!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.246720 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 620.
+Total: 0.504320 ms (FindLiveObjects: 0.052906 ms CreateObjectMapping: 0.019626 ms MarkObjects: 0.408746 ms  DeleteObjects: 0.022613 ms)
+
+Average dt was excessive!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Average dt was excessive!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Ruby (Instance) (UnityEngine.Material)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Sapphire (Instance) (UnityEngine.Material)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Opal (Instance) (UnityEngine.Material)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Emerald (Instance) (UnityEngine.Material)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cosmic (Instance) (UnityEngine.Material)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Amethyst (Instance) (UnityEngine.Material)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Amethyst (Instance) (UnityEngine.Material)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.272746 ms
+
+Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 589.
+Total: 0.527360 ms (FindLiveObjects: 0.038826 ms CreateObjectMapping: 0.029013 ms MarkObjects: 0.380160 ms  DeleteObjects: 0.078933 ms)
+
+Average dt was excessive!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Average dt was excessive!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
